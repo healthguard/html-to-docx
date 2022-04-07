@@ -62,12 +62,12 @@
     "color-name": "^1.1.4",
     "escape-html": "^1.0.3",
     "html-to-vdom": "^0.7.0",
-    "image-size": "^1.0.0",
-    "jszip": "^3.7.1",
+    "image-size": "^1.0.1",
+    "jszip": "^3.9.1",
     "lodash": "^4.17.21",
-    "nanoid": "^3.1.25",
+    "nanoid": "^3.3.2",
     "virtual-dom": "^2.1.1",
-    "xmlbuilder2": "2.1.2"
+    "xmlbuilder2": "^2.1.2"
   },
   "lint-staged": {
     "src/**/*.js": [
